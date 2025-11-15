@@ -18,6 +18,12 @@ A sophisticated Python-based auto-clicker application
 ### Python Version
 - Python 3.6 or higher
 
+## Donations
+Support ongoing development with donations:  
+
+💰 **Ethereum wallet:** `0x5dFB04ADe7beFaCB2Ed8cfBdcF2326Cc5eA056c8` 💰
+
+
 ### Dependencies
 
 Install the required packages using pip:
