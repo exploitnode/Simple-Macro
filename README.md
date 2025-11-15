@@ -1,4 +1,4 @@
-# Simple
+# Simple Macro
 
 A sophisticated Python-based auto-clicker application
 
