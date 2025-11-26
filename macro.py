@@ -10,7 +10,7 @@ from pynput import mouse, keyboard
 class AutoClicker:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("PvP Macro Suite")
+        self.root.title("Node-Macro by exploitnode")
         # Increased window size for better layout
         self.root.geometry("800x800")
         self.root.resizable(False, False)
@@ -475,3 +475,4 @@ class AutoClicker:
 if __name__ == "__main__":
     autoclicker = AutoClicker()
     autoclicker.run()
+
