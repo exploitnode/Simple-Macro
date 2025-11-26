@@ -1,4 +1,4 @@
-# Simple Macro
+# Node-Macro
 
 A sophisticated Python-based auto-clicker application
 
