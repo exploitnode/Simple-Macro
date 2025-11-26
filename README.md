@@ -1,4 +1,4 @@
-# PvP Macro Suite
+# Node-Macro
 
 A sophisticated Python-based Minecraft macro application with advanced PvP features
 
