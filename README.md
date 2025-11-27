@@ -13,7 +13,7 @@ A sophisticated Python-based Minecraft macro application with advanced PvP featu
 - **Real-time Status**: Visual indicators show active/inactive states
 - **Threaded Execution**: Smooth operation without GUI freezing
 
-### 🚀 New Advanced Features
+### 🚀 New changes added as of 26.11.2025
 - **Tabbed Interface**: Organized settings in MACRO, BINDS, SETTINGS, and MISC tabs
 - **W-Tap Automation**: Automatic knockback reset for PvP with configurable timing
 - **Jitter Aim**: Realistic mouse movement simulation to mimic human aiming
